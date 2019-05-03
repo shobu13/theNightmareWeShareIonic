@@ -1,0 +1,6 @@
+{
+  "appId": "fr.thenightmareweshare",
+  "appName": "theNightmareWeShare",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
